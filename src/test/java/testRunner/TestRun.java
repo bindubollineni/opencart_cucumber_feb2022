@@ -18,6 +18,7 @@ import org.junit.runner.RunWith;
                 //tags = "@sanity" and "@regression" //Scenarios tagged with sanity and regression will be executed
                 //tags ="@sanity" or "@regression" //Scenarios tagged with sanity or regression will be executed
                 //tags ="@sanity" and not "@regression" // Only scenarios with sanity will be executed
+               monochrome = true,
                 plugin= {"pretty",
                         //"html:reports/myreport.html",
                         "html:reports/myreport.html",
