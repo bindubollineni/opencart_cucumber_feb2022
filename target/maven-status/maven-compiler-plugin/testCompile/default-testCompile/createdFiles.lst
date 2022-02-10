@@ -1,0 +1,8 @@
+pageObjects/LoginPage.class
+pageObjects/HomePage.class
+testRunner/TestRun.class
+pageObjects/MyAccountPage.class
+utilities/DataReader.class
+utilities/DataReader$1.class
+stepDefinitions/steps.class
+pageObjects/AccountRegistrationPage.class
